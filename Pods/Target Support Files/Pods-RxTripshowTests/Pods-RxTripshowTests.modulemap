@@ -1,0 +1,6 @@
+framework module Pods_RxTripshowTests {
+  umbrella header "Pods-RxTripshowTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

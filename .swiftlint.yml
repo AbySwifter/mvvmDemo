@@ -1,0 +1,36 @@
+excluded:
+  - Pods
+
+disabled_rules:
+  - force_cast
+  - cyclomatic_complexity
+  - unused_closure_paramter
+  - todo
+  - syntactic_sugar
+  - class_delegate_protocol
+  - weak_delegate
+
+line_length:
+  warning: 300
+  error: 500
+  ignores_function_declarations: true
+  ignores_comments: true
+
+# or they can set both explicitly
+file_length:
+  warning: 500
+  error: 1200
+
+# they can set both implicitly with an array
+type_body_length:
+  - 300 # warning
+  - 400 # error
+
+identifier_name:
+  min_length: # only min_length
+    warning: 2
+    error: 2 # only error
+  excluded: # excluded via string array
+    - id
+
+reporter: "xcode"

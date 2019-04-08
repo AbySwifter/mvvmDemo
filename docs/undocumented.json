@@ -1,0 +1,3421 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/AppDelegate.swift",
+      "line": 29,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/AppDelegate.swift",
+      "line": 34,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/AppDelegate.swift",
+      "line": 39,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/AppDelegate.swift",
+      "line": 43,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/AppDelegate.swift",
+      "line": 47,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": null,
+      "symbol": "AppStyleConfig",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 12,
+      "symbol": "S_themeDark",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 13,
+      "symbol": "S_themeSelectColor",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 14,
+      "symbol": "S_themeUnselectColor",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 16,
+      "symbol": "S_textBlack",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 17,
+      "symbol": "S_textGray",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 18,
+      "symbol": "S_textWhite",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 20,
+      "symbol": "S_tabBackColor",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 23,
+      "symbol": "S_borderGray",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 25,
+      "symbol": "AppStyleConfig",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 26,
+      "symbol": "AppStyleConfig.setTabStyle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 27,
+      "symbol": "AppStyleConfig.setNavigatorBarStyle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 31,
+      "symbol": "AppStyleConfig.setTabStyle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/AppStyle.swift",
+      "line": 35,
+      "symbol": "AppStyleConfig.setNavigatorBarStyle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseNavigationController.swift",
+      "line": 11,
+      "symbol": "BaseNavigationController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseNavigationController.swift",
+      "line": 13,
+      "symbol": "BaseNavigationController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseNavigationController.swift",
+      "line": 19,
+      "symbol": "BaseNavigationController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseTabBarViewController.swift",
+      "line": 11,
+      "symbol": "BaseTabBarViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseTabBarViewController.swift",
+      "line": 13,
+      "symbol": "BaseTabBarViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseTabBarViewController.swift",
+      "line": 19,
+      "symbol": "BaseTabBarViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseTabBarViewController.swift",
+      "line": 25,
+      "symbol": "BaseTabBarViewController.initColorStyle(barTint:tint:unselectedTint:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 13,
+      "symbol": "ListRefreshStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 14,
+      "symbol": "ListRefreshStatus.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 15,
+      "symbol": "ListRefreshStatus.beingHeaderRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 16,
+      "symbol": "ListRefreshStatus.endHeaderRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 17,
+      "symbol": "ListRefreshStatus.beingFooterRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 18,
+      "symbol": "ListRefreshStatus.endFooterRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 19,
+      "symbol": "ListRefreshStatus.noMoreData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 22,
+      "symbol": "PageRefreshStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 23,
+      "symbol": "PageRefreshStatus.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 24,
+      "symbol": "PageRefreshStatus.beginRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 25,
+      "symbol": "PageRefreshStatus.endRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 29,
+      "symbol": "MVVMViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 30,
+      "symbol": "MVVMViewModel.outputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 31,
+      "symbol": "MVVMViewModel.input",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 33,
+      "symbol": "MVVMViewModel.init(input:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 37,
+      "symbol": "MVVMViewModel.vmWillBindView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 39,
+      "symbol": "MVVMViewModel.bag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/BaseViewModel.swift",
+      "line": 42,
+      "symbol": "MVVMViewModel.provideOutput()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": null,
+      "symbol": "MVVMView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 14,
+      "symbol": "MVVMView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 15,
+      "symbol": "MVVMView.DriverUIResult",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 17,
+      "symbol": "MVVMView.router",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 18,
+      "symbol": "MVVMView.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 19,
+      "symbol": "MVVMView.inputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 20,
+      "symbol": "MVVMView.receive",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 22,
+      "symbol": "MVVMView.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 28,
+      "symbol": "MVVMView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 32,
+      "symbol": "MVVMView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 52,
+      "symbol": "MVVMView.rxBind(viewInput:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 54,
+      "symbol": "MVVMView.provideCallBack()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/MVVMView.swift",
+      "line": 56,
+      "symbol": "MVVMView.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 13,
+      "symbol": "RouterType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 14,
+      "symbol": "RouterType.push(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 15,
+      "symbol": "RouterType.present(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 16,
+      "symbol": "RouterType.root(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 17,
+      "symbol": "RouterType.back",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 20,
+      "symbol": "Router",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 21,
+      "symbol": "Router.from",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 22,
+      "symbol": "Router.init(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 26,
+      "symbol": "Router.route(_:send:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/Router.swift",
+      "line": 55,
+      "symbol": "MVVMView.route(_:send:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": null,
+      "symbol": "MVVMUnit",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": null,
+      "symbol": "MVVMUnitCase",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 11,
+      "symbol": "MVVMUnit",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 12,
+      "symbol": "MVVMUnit.viewType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 13,
+      "symbol": "MVVMUnit.viewModelType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 28,
+      "symbol": "MVVMUnitCase",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 39,
+      "symbol": "MVVMUnitCase.discovery",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 40,
+      "symbol": "MVVMUnitCase.channel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 41,
+      "symbol": "MVVMUnitCase.personal",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 42,
+      "symbol": "MVVMUnitCase.signin",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 43,
+      "symbol": "MVVMUnitCase.videoDetail",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 44,
+      "symbol": "MVVMUnitCase.channelDetail",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Base/UnitCase.swift",
+      "line": 48,
+      "symbol": "MVVMBinder",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Const/Const.swift",
+      "line": 14,
+      "symbol": "translateSecond(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": null,
+      "symbol": "InputProvider",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": null,
+      "symbol": "OutputProvider",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 15,
+      "symbol": "MVVMInput",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 16,
+      "symbol": "MVVMInput.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 19,
+      "symbol": "MVVMOutput",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 20,
+      "symbol": "MVVMOutput.init(viewModel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 25,
+      "symbol": "InputProvider",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 26,
+      "symbol": "InputProvider.inputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 27,
+      "symbol": "InputProvider.provideInput()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 32,
+      "symbol": "InputProvider.provideInput()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 39,
+      "symbol": "OutputProvider",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 40,
+      "symbol": "OutputProvider.outputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 41,
+      "symbol": "OutputProvider.provideOutput()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/InputOutputPro.swift",
+      "line": 45,
+      "symbol": "OutputProvider.provideOutput()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/MJRefresh+Rx.swift",
+      "line": 17,
+      "symbol": "Reactive.refreshing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/MJRefresh+Rx.swift",
+      "line": 31,
+      "symbol": "Reactive.endRefresh",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Extension&Protocol/UIViewController+Extension.swift",
+      "line": 44,
+      "symbol": "UIViewController.setNavigationBar(hide:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Global/UserShared.swift",
+      "line": 11,
+      "symbol": "UserShared",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Global/UserShared.swift",
+      "line": 13,
+      "symbol": "UserShared.LoginStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Global/UserShared.swift",
+      "line": 14,
+      "symbol": "UserShared.LoginStatus.loginIn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Global/UserShared.swift",
+      "line": 15,
+      "symbol": "UserShared.LoginStatus.loginOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Global/UserShared.swift",
+      "line": 18,
+      "symbol": "UserShared.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Global/UserShared.swift",
+      "line": 24,
+      "symbol": "UserShared.sign",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Global/UserShared.swift",
+      "line": 25,
+      "symbol": "UserShared.userInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Global/UserShared.swift",
+      "line": 27,
+      "symbol": "UserShared.loginStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelDetailModel.swift",
+      "line": 12,
+      "symbol": "ChannelDetailModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelDetailModel.swift",
+      "line": 13,
+      "symbol": "ChannelDetailModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelDetailModel.swift",
+      "line": 14,
+      "symbol": "ChannelDetailModel.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelDetailModel.swift",
+      "line": 15,
+      "symbol": "ChannelDetailModel.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelDetailModel.swift",
+      "line": 16,
+      "symbol": "ChannelDetailModel.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelDetailModel.swift",
+      "line": 17,
+      "symbol": "ChannelDetailModel.slug",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelDetailModel.swift",
+      "line": 18,
+      "symbol": "ChannelDetailModel.videoList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelDetailModel.swift",
+      "line": 20,
+      "symbol": "ChannelDetailModel.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelModel.swift",
+      "line": 12,
+      "symbol": "ChannelModel",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelModel.swift",
+      "line": 13,
+      "symbol": "ChannelModel.ID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelModel.swift",
+      "line": 14,
+      "symbol": "ChannelModel.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelModel.swift",
+      "line": 15,
+      "symbol": "ChannelModel.label",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/ChannelModel.swift",
+      "line": 17,
+      "symbol": "ChannelModel.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": null,
+      "symbol": "DiscoveryTabData",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 14,
+      "symbol": "VideoItem",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 15,
+      "symbol": "VideoItem.CreateTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 16,
+      "symbol": "VideoItem.Description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 17,
+      "symbol": "VideoItem.Duration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 18,
+      "symbol": "VideoItem.ID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 19,
+      "symbol": "VideoItem.Image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 20,
+      "symbol": "VideoItem.LikeCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 21,
+      "symbol": "VideoItem.Liked",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 22,
+      "symbol": "VideoItem.Owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 23,
+      "symbol": "VideoItem.URL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 24,
+      "symbol": "VideoItem.URL2",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 25,
+      "symbol": "VideoItem.VideoName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 27,
+      "symbol": "VideoItem.durationString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 31,
+      "symbol": "VideoItem.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 36,
+      "symbol": "BannerItem",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 37,
+      "symbol": "BannerItem.Image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 38,
+      "symbol": "BannerItem.LabelID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 39,
+      "symbol": "BannerItem.LabelName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 40,
+      "symbol": "BannerItem.Target",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 43,
+      "symbol": "VideoList",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 44,
+      "symbol": "VideoList.banners",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 45,
+      "symbol": "VideoList.likeEnable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 46,
+      "symbol": "VideoList.list",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 47,
+      "symbol": "VideoList.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 55,
+      "symbol": "DiscoveryTabData",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 56,
+      "symbol": "DiscoveryTabData.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 60,
+      "symbol": "DiscoveryTabData.Item",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/DiscoveryModel.swift",
+      "line": 61,
+      "symbol": "DiscoveryTabData.init(original:items:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/SignModel.swift",
+      "line": 12,
+      "symbol": "SignModel",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/SignModel.swift",
+      "line": 14,
+      "symbol": "SignModel.userSession",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/SignModel.swift",
+      "line": 16,
+      "symbol": "SignModel.saveUserSession()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/SignModel.swift",
+      "line": 20,
+      "symbol": "SignModel.loadUserSession()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 12,
+      "symbol": "User",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 16,
+      "symbol": "User.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 17,
+      "symbol": "User.avatar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 19,
+      "symbol": "User.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 24,
+      "symbol": "User.saveUserInfo()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 30,
+      "symbol": "User.loadUserInfo()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 38,
+      "symbol": "PersonPageData",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 40,
+      "symbol": "PersonPageData.PersonalItem",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 42,
+      "symbol": "PersonPageData.userInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 43,
+      "symbol": "PersonPageData.pages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 45,
+      "symbol": "PersonPageData.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/UserModel.swift",
+      "line": 52,
+      "symbol": "PersonPageData.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": null,
+      "symbol": "VideoDetailModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 12,
+      "symbol": "VideoDetailModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 13,
+      "symbol": "VideoDetailModel.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 14,
+      "symbol": "VideoDetailModel.createTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 15,
+      "symbol": "VideoDetailModel.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 16,
+      "symbol": "VideoDetailModel.duration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 17,
+      "symbol": "VideoDetailModel.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 18,
+      "symbol": "VideoDetailModel.labels",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 19,
+      "symbol": "VideoDetailModel.likedCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 20,
+      "symbol": "VideoDetailModel.liked",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 21,
+      "symbol": "VideoDetailModel.owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 22,
+      "symbol": "VideoDetailModel.url",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 23,
+      "symbol": "VideoDetailModel.url2",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 24,
+      "symbol": "VideoDetailModel.videoName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 26,
+      "symbol": "VideoDetailModel.durationString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 30,
+      "symbol": "VideoDetailModel.ownerStr",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 32,
+      "symbol": "VideoDetailModel.ownerName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 39,
+      "symbol": "VideoDetailModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 41,
+      "symbol": "VideoDetailModel.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 63,
+      "symbol": "VideoDetailModel.setModel(item:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 77,
+      "symbol": "Labels",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 78,
+      "symbol": "Labels.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 79,
+      "symbol": "Labels.label",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 81,
+      "symbol": "Labels.tagName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 85,
+      "symbol": "Labels.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 91,
+      "symbol": "Owner",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 92,
+      "symbol": "Owner.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 93,
+      "symbol": "Owner.ownerID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 94,
+      "symbol": "Owner.ownerName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/Model/VideoDetailModel.swift",
+      "line": 95,
+      "symbol": "Owner.mapping(mapper:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": null,
+      "symbol": "ChannelDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": null,
+      "symbol": "ChannelDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": null,
+      "symbol": "ChannelDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": null,
+      "symbol": "ChannelDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 11,
+      "symbol": "ChannelDetailInput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 12,
+      "symbol": "ChannelDetailInput.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 19,
+      "symbol": "ChannelDetailInput.channelInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 22,
+      "symbol": "ChannelDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 23,
+      "symbol": "ChannelDetailViewController.tabView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 31,
+      "symbol": "ChannelDetailViewController.hotTableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 38,
+      "symbol": "ChannelDetailViewController.latestTab",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 45,
+      "symbol": "ChannelDetailViewController.descriptionLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 52,
+      "symbol": "ChannelDetailViewController.contentScrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 66,
+      "symbol": "ChannelDetailViewController.mainScrollEnabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 67,
+      "symbol": "ChannelDetailViewController.subScrollEnabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 68,
+      "symbol": "ChannelDetailViewController.currentPanY",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 70,
+      "symbol": "ChannelDetailViewController.maxOffsetY",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 74,
+      "symbol": "ChannelDetailViewController.currentpage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 79,
+      "symbol": "ChannelDetailViewController.inputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 82,
+      "symbol": "ChannelDetailViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 96,
+      "symbol": "ChannelDetailViewController.makeHeadView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 105,
+      "symbol": "ChannelDetailViewController.makeContraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 114,
+      "symbol": "ChannelDetailViewController.makeSurface()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 118,
+      "symbol": "ChannelDetailViewController.scrollSetting()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 129,
+      "symbol": "ChannelDetailViewController.scrollViewDidScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 154,
+      "symbol": "ChannelDetailViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 158,
+      "symbol": "ChannelDetailViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 166,
+      "symbol": "ChannelDetailViewController.tableView(_:heightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 171,
+      "symbol": "ChannelDetailViewController.tableView(_:viewForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 182,
+      "symbol": "ChannelDetailViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 188,
+      "symbol": "ChannelDetailViewController.gestureRecognizer(_:shouldRecognizeSimultaneouslyWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelDetailViewController.swift",
+      "line": 192,
+      "symbol": "ChannelDetailViewController.panGestureRecognizerAction(recognizer:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 15,
+      "symbol": "ChannelViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 18,
+      "symbol": "ChannelViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 27,
+      "symbol": "ChannelViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 34,
+      "symbol": "ChannelViewController.tableView(_:heightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 38,
+      "symbol": "ChannelViewController.getInput",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 41,
+      "symbol": "ChannelViewController.ChannelInput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 42,
+      "symbol": "ChannelViewController.ChannelInput.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 45,
+      "symbol": "ChannelViewController.ChannelInput.requestCommond",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 47,
+      "symbol": "ChannelViewController.inputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/ChannelViewController.swift",
+      "line": 69,
+      "symbol": "ChannelViewController.rxBind(viewInput:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": null,
+      "symbol": "DiscoveryViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 17,
+      "symbol": "DiscoveryInput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 18,
+      "symbol": "DiscoveryInput.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 19,
+      "symbol": "DiscoveryInput.requestCommond",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 20,
+      "symbol": "DiscoveryInput.cellLikeBtnTap",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 23,
+      "symbol": "DiscoveryViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 25,
+      "symbol": "DiscoveryViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 36,
+      "symbol": "DiscoveryViewController.dataSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 47,
+      "symbol": "DiscoveryViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 60,
+      "symbol": "DiscoveryViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 65,
+      "symbol": "DiscoveryViewController.inputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 104,
+      "symbol": "DiscoveryViewController.rxBind(viewInput:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 133,
+      "symbol": "DiscoveryViewController.tableView(_:editingStyleForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/DiscoveryViewController.swift",
+      "line": 137,
+      "symbol": "DiscoveryViewController.tableView(_:estimatedHeightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 15,
+      "symbol": "PersonalInput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 16,
+      "symbol": "PersonalInput.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 19,
+      "symbol": "PersonalInput.updateUserInfoDriver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 22,
+      "symbol": "PersonalCenterViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 24,
+      "symbol": "PersonalCenterViewController.inputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 28,
+      "symbol": "PersonalCenterViewController.persional_input",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 32,
+      "symbol": "PersonalCenterViewController.tableview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 41,
+      "symbol": "PersonalCenterViewController.avatar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 42,
+      "symbol": "PersonalCenterViewController.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 44,
+      "symbol": "PersonalCenterViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 56,
+      "symbol": "PersonalCenterViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/PersonalCenterViewController.swift",
+      "line": 61,
+      "symbol": "PersonalCenterViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 14,
+      "symbol": "SignInput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 15,
+      "symbol": "SignInput.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 20,
+      "symbol": "SignInput.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 21,
+      "symbol": "SignInput.password",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 22,
+      "symbol": "SignInput.signInTap",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 25,
+      "symbol": "SignInViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 26,
+      "symbol": "SignInViewController.usernameTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 32,
+      "symbol": "SignInViewController.passwordTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 38,
+      "symbol": "SignInViewController.signInButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 44,
+      "symbol": "SignInViewController.signUpLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 54,
+      "symbol": "SignInViewController.userProtocl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 64,
+      "symbol": "SignInViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 73,
+      "symbol": "SignInViewController.inputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 88,
+      "symbol": "SignInViewController.rxBind(viewInput:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 93,
+      "symbol": "SignInViewController.viewDidLayoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/SignInViewController.swift",
+      "line": 100,
+      "symbol": "SignInViewController.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": null,
+      "symbol": "VideoDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": null,
+      "symbol": "VideoDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": null,
+      "symbol": "VideoDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": null,
+      "symbol": "VideoDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 15,
+      "symbol": "VideoDetailInput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 16,
+      "symbol": "VideoDetailInput.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 21,
+      "symbol": "VideoDetailInput.videoInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 22,
+      "symbol": "VideoDetailInput.requestCommond",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 25,
+      "symbol": "VideoDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 27,
+      "symbol": "VideoDetailViewController.playerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 42,
+      "symbol": "VideoDetailViewController.tableview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 50,
+      "symbol": "VideoDetailViewController.bottomBar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 56,
+      "symbol": "VideoDetailViewController.titleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 64,
+      "symbol": "VideoDetailViewController.owners",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 74,
+      "symbol": "VideoDetailViewController.tagsView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 79,
+      "symbol": "VideoDetailViewController.descriptionLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 90,
+      "symbol": "VideoDetailViewController.inputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 113,
+      "symbol": "VideoDetailViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 121,
+      "symbol": "VideoDetailViewController.viewDidLayoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 126,
+      "symbol": "VideoDetailViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 133,
+      "symbol": "VideoDetailViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 143,
+      "symbol": "VideoDetailViewController.tableView(_:viewForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 177,
+      "symbol": "VideoDetailViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 181,
+      "symbol": "VideoDetailViewController.tableView(_:heightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 188,
+      "symbol": "VideoDetailViewController.makeTabHeadView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 223,
+      "symbol": "VideoDetailViewController.updateHeaderView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 233,
+      "symbol": "VideoDetailViewController.makeConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 268,
+      "symbol": "VideoDetailViewController.bmPlayer(player:playerStateDidChange:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 272,
+      "symbol": "VideoDetailViewController.bmPlayer(player:loadedTimeDidChange:totalDuration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 276,
+      "symbol": "VideoDetailViewController.bmPlayer(player:playTimeDidChange:totalTime:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 280,
+      "symbol": "VideoDetailViewController.bmPlayer(player:playerIsPlaying:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/View/VideoDetailViewController.swift",
+      "line": 284,
+      "symbol": "VideoDetailViewController.bmPlayer(player:playerOrientChanged:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/ChannelCell.swift",
+      "line": 13,
+      "symbol": "ChannelCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/ChannelCell.swift",
+      "line": 15,
+      "symbol": "ChannelCell.coverImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/ChannelCell.swift",
+      "line": 17,
+      "symbol": "ChannelCell.init(style:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/ChannelCell.swift",
+      "line": 29,
+      "symbol": "ChannelCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/ChannelCell.swift",
+      "line": 33,
+      "symbol": "ChannelCell.setCell(model:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": null,
+      "symbol": "CorrelationVideoCell",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 11,
+      "symbol": "CorrelationVideoCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 13,
+      "symbol": "CorrelationVideoCell.cellID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 15,
+      "symbol": "CorrelationVideoCell.icon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 16,
+      "symbol": "CorrelationVideoCell.cover",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 17,
+      "symbol": "CorrelationVideoCell.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 18,
+      "symbol": "CorrelationVideoCell.owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 19,
+      "symbol": "CorrelationVideoCell.likedCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 20,
+      "symbol": "CorrelationVideoCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/CorrelationVideoCell.swift",
+      "line": 30,
+      "symbol": "CorrelationVideoCell.setCell(model:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 12,
+      "symbol": "PersonCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 14,
+      "symbol": "PersonCell.icon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 15,
+      "symbol": "PersonCell.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 16,
+      "symbol": "PersonCell.rightIcon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 17,
+      "symbol": "PersonCell.sepator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 19,
+      "symbol": "PersonCell.init(style:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 28,
+      "symbol": "PersonCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 32,
+      "symbol": "PersonCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 37,
+      "symbol": "PersonCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 43,
+      "symbol": "PersonCell.makeConstraint()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/PersonCell.swift",
+      "line": 71,
+      "symbol": "PersonCell.makeSuface()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 14,
+      "symbol": "VideoCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 16,
+      "symbol": "VideoCell.coverImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 17,
+      "symbol": "VideoCell.likeCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 18,
+      "symbol": "VideoCell.author",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 19,
+      "symbol": "VideoCell.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 20,
+      "symbol": "VideoCell.likedBtn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 22,
+      "symbol": "VideoCell.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 24,
+      "symbol": "VideoCell.indexPath",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 26,
+      "symbol": "VideoCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 34,
+      "symbol": "VideoCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 40,
+      "symbol": "VideoCell.prepareForReuse()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/Cell/VideoCell.swift",
+      "line": 45,
+      "symbol": "VideoCell.setCell(model:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": null,
+      "symbol": "TagViewDelegate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 12,
+      "symbol": "TagItem",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 13,
+      "symbol": "TagItem.tagName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 16,
+      "symbol": "TagViewDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 17,
+      "symbol": "TagViewDelegate.touch(index:tag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 18,
+      "symbol": "TagViewDelegate.touchClose(index:tag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 19,
+      "symbol": "TagViewDelegate.touchAdd(index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 24,
+      "symbol": "TagViewDelegate.touch(index:tag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 28,
+      "symbol": "TagViewDelegate.touchClose(index:tag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 32,
+      "symbol": "TagViewDelegate.touchAdd(index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 35,
+      "symbol": "AlTagView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 36,
+      "symbol": "AlTagView.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 37,
+      "symbol": "AlTagView.showAddBtn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 48,
+      "symbol": "AlTagView.rowContainers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 60,
+      "symbol": "AlTagView.showClose",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 66,
+      "symbol": "AlTagView.addButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 110,
+      "symbol": "AlTagView.updataTag()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 152,
+      "symbol": "AlTagView.createTags()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 254,
+      "symbol": "AlTagView.tagTouchAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 260,
+      "symbol": "AlTagView.closeAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewComponent/TagView.swift",
+      "line": 265,
+      "symbol": "AlTagView.addBtnAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelDetailViewModel.swift",
+      "line": 16,
+      "symbol": "ChannelDetailOutput.init(viewModel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelDetailViewModel.swift",
+      "line": 21,
+      "symbol": "ChannelDetailOutput.videoListDriver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelDetailViewModel.swift",
+      "line": 24,
+      "symbol": "ChannelDetailViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelDetailViewModel.swift",
+      "line": 25,
+      "symbol": "ChannelDetailViewModel.channelDetail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelDetailViewModel.swift",
+      "line": 26,
+      "symbol": "ChannelDetailViewModel.outputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelDetailViewModel.swift",
+      "line": 27,
+      "symbol": "ChannelDetailViewModel.vmWillBindView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelDetailViewModel.swift",
+      "line": 57,
+      "symbol": "ChannelDetailViewModel.createListDriver()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": null,
+      "symbol": "ChannelViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": 13,
+      "symbol": "ChannelViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": 18,
+      "symbol": "ChannelViewModel.getInput",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": 22,
+      "symbol": "ChannelViewModel.provideOutput()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": 33,
+      "symbol": "ChannelViewModel.ChannelOutPut",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": 34,
+      "symbol": "ChannelViewModel.ChannelOutPut.init(viewModel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": 38,
+      "symbol": "ChannelViewModel.ChannelOutPut.listData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": 39,
+      "symbol": "ChannelViewModel.ChannelOutPut.refreshStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/ChannelViewModel.swift",
+      "line": 42,
+      "symbol": "ChannelViewModel.getData(output:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": null,
+      "symbol": "DiscoveryViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 13,
+      "symbol": "DiscoveryViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 15,
+      "symbol": "DiscoveryViewModel.getInput",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 19,
+      "symbol": "DiscoveryViewModel.dataSourceObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 20,
+      "symbol": "DiscoveryViewModel.videoListObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 21,
+      "symbol": "DiscoveryViewModel.enableLikedObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 22,
+      "symbol": "DiscoveryViewModel.routerObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 24,
+      "symbol": "DiscoveryViewModel.page",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 26,
+      "symbol": "DiscoveryViewModel.outputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 28,
+      "symbol": "DiscoveryViewModel.provideOutput()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 50,
+      "symbol": "DiscoveryViewModel.getData(output:isReload:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 73,
+      "symbol": "DiscoveryViewModel.liked(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 97,
+      "symbol": "DiscoveryOutput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 98,
+      "symbol": "DiscoveryOutput.init(viewModel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 106,
+      "symbol": "DiscoveryOutput.requestCommond",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 108,
+      "symbol": "DiscoveryOutput.enableLiked",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 109,
+      "symbol": "DiscoveryOutput.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 110,
+      "symbol": "DiscoveryOutput.videoList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 112,
+      "symbol": "DiscoveryOutput.refreshStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/DiscoverryViewModel.swift",
+      "line": 114,
+      "symbol": "DiscoveryOutput.routeAction",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/PersonalViewModel.swift",
+      "line": 13,
+      "symbol": "PersonalViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/PersonalViewModel.swift",
+      "line": 15,
+      "symbol": "PersonalViewModel.outputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/PersonalViewModel.swift",
+      "line": 47,
+      "symbol": "PersonalViewModel.provideOutput()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/PersonalViewModel.swift",
+      "line": 57,
+      "symbol": "PersonalViewModel.PersonalOutput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/PersonalViewModel.swift",
+      "line": 58,
+      "symbol": "PersonalViewModel.PersonalOutput.init(viewModel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/PersonalViewModel.swift",
+      "line": 70,
+      "symbol": "PersonalViewModel.PersonalOutput.avatar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/PersonalViewModel.swift",
+      "line": 71,
+      "symbol": "PersonalViewModel.PersonalOutput.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/PersonalViewModel.swift",
+      "line": 72,
+      "symbol": "PersonalViewModel.PersonalOutput.listData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": null,
+      "symbol": "SignViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 13,
+      "symbol": "SignViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 15,
+      "symbol": "SignViewModel.outputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 20,
+      "symbol": "SignViewModel.bindToOutPut()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 26,
+      "symbol": "SignViewModel.provideUserNameVaild()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 32,
+      "symbol": "SignViewModel.providePasswordVaild()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 38,
+      "symbol": "SignViewModel.provideSignInAction(usernameAndPassword:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 46,
+      "symbol": "SignViewModel.loginAction(user:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 67,
+      "symbol": "SignViewModel.SignOutPut",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 68,
+      "symbol": "SignViewModel.SignOutPut.usernameValid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 69,
+      "symbol": "SignViewModel.SignOutPut.passwordValid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 70,
+      "symbol": "SignViewModel.SignOutPut.everyThingValid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 71,
+      "symbol": "SignViewModel.SignOutPut.singInAction",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/SignViewModel.swift",
+      "line": 72,
+      "symbol": "SignViewModel.SignOutPut.init(viewModel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 15,
+      "symbol": "VideoDetailViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 16,
+      "symbol": "VideoDetailViewModel.outputType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 17,
+      "symbol": "VideoDetailViewModel.videoInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 18,
+      "symbol": "VideoDetailViewModel.headerUpdate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 19,
+      "symbol": "VideoDetailViewModel.videoCorrlation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 20,
+      "symbol": "VideoDetailViewModel.vmWillBindView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 33,
+      "symbol": "VideoDetailViewModel.titleDrive()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 39,
+      "symbol": "VideoDetailViewModel.subTitleDrive()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 49,
+      "symbol": "VideoDetailViewModel.labelsDriver()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 56,
+      "symbol": "VideoDetailViewModel.updateCorrlationDriver()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 61,
+      "symbol": "VideoDetailViewModel.descriptionDriver()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 78,
+      "symbol": "VideoDetailViewModel.getVideoDetail()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 101,
+      "symbol": "VideoDetailViewModel.getCorrelationVideos(ids:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 133,
+      "symbol": "VideoDetailViewModel.correlationVideos()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 150,
+      "symbol": "VideoDetailViewModel.playerResource()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 163,
+      "symbol": "VideoDetailOutput",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 164,
+      "symbol": "VideoDetailOutput.init(viewModel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 174,
+      "symbol": "VideoDetailOutput.refreshStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 175,
+      "symbol": "VideoDetailOutput.titleDriver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 176,
+      "symbol": "VideoDetailOutput.subTitleDriver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 177,
+      "symbol": "VideoDetailOutput.labelsDriver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 178,
+      "symbol": "VideoDetailOutput.despritionDriver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 179,
+      "symbol": "VideoDetailOutput.updateTabheader",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 180,
+      "symbol": "VideoDetailOutput.updateCorrlation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Main/ViewModel/VideoDetailViewModel.swift",
+      "line": 181,
+      "symbol": "VideoDetailOutput.playerResource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": null,
+      "symbol": "Api",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 11,
+      "symbol": "Api",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 12,
+      "symbol": "Api.getHomeVideoList(page:session:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 13,
+      "symbol": "Api.getVideoList(label:order:session:page:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 14,
+      "symbol": "Api.getChannelList(page:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 15,
+      "symbol": "Api.getAuthorInfo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 16,
+      "symbol": "Api.videoDetail(id:session:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 17,
+      "symbol": "Api.like(videoID:session:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 18,
+      "symbol": "Api.userInfo(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 19,
+      "symbol": "Api.myFavoriteList",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 20,
+      "symbol": "Api.login(mobile:pwd:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 21,
+      "symbol": "Api.sendCode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 22,
+      "symbol": "Api.registerAction",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 23,
+      "symbol": "Api.weChatLogin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 24,
+      "symbol": "Api.report",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 29,
+      "symbol": "Api.path",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 60,
+      "symbol": "Api.method",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 65,
+      "symbol": "Api.sampleData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 70,
+      "symbol": "Api.task",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 111,
+      "symbol": "Api.headers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkConfig.swift",
+      "line": 118,
+      "symbol": "Api.baseURL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkManager.swift",
+      "line": 13,
+      "symbol": "Network",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkManager.swift",
+      "line": 14,
+      "symbol": "Network.provider",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 14,
+      "symbol": "BaseResponseModel",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 15,
+      "symbol": "BaseResponseModel.err",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 16,
+      "symbol": "BaseResponseModel.msg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 17,
+      "symbol": "BaseResponseModel.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 20,
+      "symbol": "BaseResponseArrModel",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 21,
+      "symbol": "BaseResponseArrModel.err",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 22,
+      "symbol": "BaseResponseArrModel.msg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 23,
+      "symbol": "BaseResponseArrModel.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 28,
+      "symbol": "ObservableType.mapModel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bear/Desktop/iOS/RxTripshow/RxTripshow/Classes/Network/NetWorkModelAnchor.swift",
+      "line": 37,
+      "symbol": "Response.mapModel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/bear/Desktop/iOS/RxTripshow"
+}

@@ -1,0 +1,4 @@
+framework module AbyToolCollection {
+  header "AbyToolCollection-Swift.h"
+  requires objc
+}
